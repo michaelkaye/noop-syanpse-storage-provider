@@ -3,7 +3,7 @@ from setuptools import setup
 __version__ = "1.0.0"
 
 setup(
-    name="noop-storage-provider",
+    name="noop-synapse-storage-provider",
     version=__version__,
     zip_safe=False,
     author="michaelkaye",
