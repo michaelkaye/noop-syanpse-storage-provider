@@ -24,7 +24,7 @@ class NoopStorageProviderBackend(StorageProvider):
     def store_file(self, path, file_info):
         """See StorageProvider.store_file"""
         logger.info("Stored file into the void")
-	return
+        return
 
     def fetch(self, path, file_info):
         """See StorageProvider.fetch"""
