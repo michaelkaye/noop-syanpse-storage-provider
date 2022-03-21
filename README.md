@@ -1,2 +1,3 @@
 # noop-syanpse-storage-provider
-no-op storage provider for testing modules with synapse
+
+Attempt at a trivial storage provider for synapse to test installing additional modules.
